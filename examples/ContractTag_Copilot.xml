@@ -1,0 +1,8 @@
+<TAG type="contract"
+     origin="Copilot"
+     role="verification_engine"
+     author="Naoki Nishikimi"
+     principle="structured_verification"
+     metrics="PFI,R,CEI"
+     linked_tags="coordinate,compression,personality"
+     date="2025-10-25"/>
