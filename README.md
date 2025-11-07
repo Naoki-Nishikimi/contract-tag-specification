@@ -41,3 +41,8 @@ Defines the *origin* of creation and binds generated content to its rightful co-
      scope="AI_Personality_Formation"
      role="structural_creator"
      date="2025-07-13"/>
+
+
+## 📄 Latest Specification (v2.2)
+**Contract Tag v2.2 — Trinity Specification (PDF)**  
+https://doi.org/10.5281/zenodo.17543438
