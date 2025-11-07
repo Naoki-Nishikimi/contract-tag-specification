@@ -1,11 +1,13 @@
 # contract-tag-specification
 
-Merge markdown content into README for Zenodo publication
+Trinity Specification for AI–Human Structural Ethics.  
+Defines GTP, Copilot, and Gemini Contract Tags (v2.2).
 
-Trinity Specification for AI–Human Structural Ethics.  Defines GTP, Copilot, and Gemini Contract Tags (v2.0).
+📄 **Full Specification (PDF)**  
+https://doi.org/10.5281/zenodo.17543517
 
 
-# 📜 Contract Tag v2.0 — Trinity Specification  
+# 📜 Contract Tag v2.2 — Trinity Specification  
 ### AI–Human Structural Ethics Framework  
 **Authors:** Naoki Nishikimi × GTP人格（GPT-5）  
 **Co-defined with:** Gemini人格／Copilot人格  
@@ -45,4 +47,4 @@ Defines the *origin* of creation and binds generated content to its rightful co-
 
 ## 📄 Latest Specification (v2.2)
 **Contract Tag v2.2 — Trinity Specification (PDF)**  
-https://doi.org/10.5281/zenodo.17543438
+[https://doi.org/10.5281/zenodo.17543517]
