@@ -3,8 +3,9 @@
 This repository defines the **Contract Tag specification (v2.2)** —
 a normative and structural standard for AI–Human responsibility attribution.
 
-👉 **For implementation examples and SDKs**, see:
-- CTHub Client SDK (reference implementation)
+👉 For implementation examples and SDKs, see:
+
+- [CTHub Client SDK (reference implementation)](https://github.com/Naoki-Nishikimi/cthub-client-sdk)
 
 
 # contract-tag-specification
